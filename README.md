@@ -1,89 +1,89 @@
-<!-- ================================================= -->
-<!-- ██████  BHAVESH.OS  |  SYSTEM INTERFACE v2.7  ███ -->
-<!-- ================================================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=BHAVESH%20PANDEY&fontAlign=50&fontAlignY=35&color=0:0f172a,100:020617&fontColor=0ea5e9&stroke=000000&desc=BUILDING%20REALITY%20INTO%20CODE&descAlignY=60&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  size=24&
-  pause=700&
-  color=00F7FF&
-  center=true&
-  vCenter=true&
-  width=950&
-  lines=>>+BOOTING+BHAVESH.OS;>>+Initializing+AI+%7C+IoT+Modules;>>+Loading+System+Intelligence;>>+STATUS:+ONLINE+%E2%9C%85"
-  />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=System.init(Full_Stack_%2B_IoT);Injecting+AI+into+Circuits...;Musician.play(Classical_%2B_Beats);Building+Real+Systems,+Not+Demos" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://instagram.com/kreo.dev">
+    <img src="https://img.shields.io/badge/Instagram-Kreo.Dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@KreoDev">
+    <img src="https://img.shields.io/badge/YouTube-KreoDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:workbhaveshpandey@gmail.com">
+    <img src="https://img.shields.io/badge/Connect-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      
+### 🧠 System Diagnostics (About Me)
+
+> **"Think in systems. Build for reality."**
+
+I am a **Full Stack Developer & IoT Engineer** bridging the gap between software and hardware. Currently hacking systems at **Amrapali University**.
+
+- 🔭 **Current Quest:** B.Tech in Data Science & IoT
+- ⚡ **Superpower:** Designing circuits that talk to the web.
+- 🏆 **Achievement:** **INSPIRE Award 2024** (IoT E-Waste System).
+- 🎵 **Side Process:** Classical Musician & Multi-Instrumentalist.
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🚀 Stack & Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nextjs,nodejs,express,python,firebase,arduino,raspberrypi,figma,c,cpp,git&perline=4" />
+</div>
+
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📡 Project Telemetry
+
+| Protocol | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **♻️ E-Waste IoT** | Smart segregation system (*Award Winner*) | `Arduino` `Sensors` `C++` |
+| **🎓 EdTech Core** | Full-stack educational platform | `React` `Node` `Firebase` |
+| **👁️ Face Rec** | Real-time browser-based recognition | `Python` `OpenCV` `Web` |
+| **💬 Live Chat** | Real-time messaging architecture | `Socket.io` `Express` |
+
+---
+
+### 🎹 The Audio Engine (Music)
+<p align="left">
+  <img src="https://img.shields.io/badge/Classical_Vocals-4_Years-purple?style=flat-square&logo=apple-music" />
+  <img src="https://img.shields.io/badge/Piano-7_Years-blue?style=flat-square&logo=audacity" />
+  <img src="https://img.shields.io/badge/Harmonium-Mastered-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Beatboxing-Active-red?style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</p>
-
-<p align="center">
-  <b>FULL STACK DEVELOPER • IoT ENGINEER • SYSTEM BUILDER</b>
-</p>
-
 ---
 
-## 🧬 SYSTEM IDENTITY
+### 📊 GitHub Metrics
 
-```txt
-USER        : Bhavesh
-ALIAS       : KREO
-EDUCATION   : B.Tech — Data Science & IoT
-INSTITUTE   : Amrapali University, Haldwani
-MODE        : BUILD • LEARN • SHIP
-STATUS      : ACTIVE
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=workbhaveshpandey-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=workbhaveshpandey-create&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</div>
 
----
+<br/>
 
-## 🧠 ABOUT ME
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=workbhaveshpandey-create&theme=darkhub&no-frame=true&margin-w=15" />
+</div>
 
-I am a **Full Stack Developer and IoT Engineer**, currently pursuing **B.Tech in Data Science & IoT** from  
-**Amrapali University, Haldwani**.
-
-I build **AI-powered systems**, **full-stack applications**, and **IoT solutions** that work in real-world conditions.
-
-🏆 **INSPIRE Award Winner 2024** — IoT E-Waste Segregation System
-
----
-
-## ⚙️ WHAT I BUILD
-
-• AI Assistants & Automation  
-• Full Stack Web Platforms  
-• Real-Time Face Recognition  
-• IoT Systems (Arduino, Raspberry Pi)  
-• Offline & Low-Bandwidth Systems  
-
----
-
-## 🧰 TECHNOLOGY MATRIX
-
-JavaScript • TypeScript • React • Next.js • Node.js • Express  
-Python • Firebase • Flutter • MySQL  
-Arduino • Raspberry Pi • Figma • Git • Linux  
-
----
-
-## 🎧 CREATIVE CORE
-
-🎤 Classical Singing  
-🎹 Piano • Harmonium • Ukulele  
-🥁 Drumming & Beatboxing  
-🎓 Completed Music Degree  
-
----
-
-## 🧭 PHILOSOPHY
-
-Think in systems.  
-Build real things.  
-Ship with intent.
-
----
-
-<p align="center">
-  <b>█ SYSTEM ONLINE — SHUTDOWN DISABLED █</b>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:020617,100:0f172a" width="100%" />
+</div>
