@@ -1,89 +1,110 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=BHAVESH%20PANDEY&fontAlign=50&fontAlignY=35&color=0:0f172a,100:020617&fontColor=0ea5e9&stroke=000000&desc=BUILDING%20REALITY%20INTO%20CODE&descAlignY=60&animation=fadeIn" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontAlign=50&height=280&section=header&text=BHAVESH_PANDEY&fontSize=80&animation=glitch&fontColor=00ff00&desc=SYSTEM_ADMIN_//_IOT_ARCHITECT&descAlign=62&descAlignY=62" width="100%" />
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=System.init(Full_Stack_%2B_IoT);Injecting+AI+into+Circuits...;Musician.play(Classical_%2B_Beats);Building+Real+Systems,+Not+Demos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=Initializing+System...;Loading+Module:+Full+Stack+Dev;Loading+Module:+IoT+Engineering;Loading+Module:+Classical+Music;System+Ready..." alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://instagram.com/kreo.dev">
-    <img src="https://img.shields.io/badge/Instagram-Kreo.Dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@KreoDev">
-    <img src="https://img.shields.io/badge/YouTube-KreoDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="mailto:workbhaveshpandey@gmail.com">
-    <img src="https://img.shields.io/badge/Connect-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="30" />
 </div>
 
-<br/>
+<div align="center"> 
+  <a href="https://instagram.com/kreo.dev">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FE019A?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@KreoDev">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:workbhaveshpandey@gmail.com">
+    <img src="https://img.shields.io/badge/MAIL_UPLINK-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+</div> 
+
+<br />
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      
-### 🧠 System Diagnostics (About Me)
+    <td width="55%" valign="top">
 
-> **"Think in systems. Build for reality."**
+### 🕹️ PLAYER SELECT: **BHAVESH**
 
-I am a **Full Stack Developer & IoT Engineer** bridging the gap between software and hardware. Currently hacking systems at **Amrapali University**.
+> **STATUS:** ONLINE 🟢  
+> **LOCATION:** Amrapali University (Data Science & IoT)  
+> **CURRENT LEVEL:** B.Tech Student  
+> **SPECIAL ABILITY:** Turning Hardware into Software
 
-- 🔭 **Current Quest:** B.Tech in Data Science & IoT
-- ⚡ **Superpower:** Designing circuits that talk to the web.
-- 🏆 **Achievement:** **INSPIRE Award 2024** (IoT E-Waste System).
-- 🎵 **Side Process:** Classical Musician & Multi-Instrumentalist.
+**"I don't just write code; I solder it."** main ek **Hybrid Developer** hoon. Subah React/Node.js code karta hoon aur raat ko soldering iron lekar circuits design karta hoon.
+
+#### 🏆 ACHIEVEMENTS UNLOCKED
+* 🥇 **INSPIRE Award '24** (IoT E-Waste System)
+* 🎹 **Bards College Graduate** (Classical Music Degree)
+* 🛠️ **Real World Builder** (Not just demos)
 
     </td>
-    <td width="50%" valign="top">
-
-### 🚀 Stack & Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nextjs,nodejs,express,python,firebase,arduino,raspberrypi,figma,c,cpp,git&perline=4" />
-</div>
-
+    <td width="45%" valign="center">
+      <div align="center">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4Z3p4/LmcMKdG9Y4qWnFhD2l/giphy.gif" width="100%" alt="Retro Computer" />
+      </div>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📡 Project Telemetry
+### ⚔️ WEAPONRY (TECH STACK)
 
-| Protocol | Description | Tech Stack |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="90"><b>FRONTEND</b></td>
+      <td align="center" width="90"><b>BACKEND</b></td>
+      <td align="center" width="90"><b>HARDWARE</b></td>
+      <td align="center" width="90"><b>TOOLS</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,html,css,js,ts&perline=2" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,python,c&perline=2" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp&perline=2" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=2" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 💾 PROJECT LOGS (Saved Games)
+
+| 📼 CARTRIDGE | ℹ️ MISSION DATA | 🛠️ ENGINE |
 | :--- | :--- | :--- |
-| **♻️ E-Waste IoT** | Smart segregation system (*Award Winner*) | `Arduino` `Sensors` `C++` |
-| **🎓 EdTech Core** | Full-stack educational platform | `React` `Node` `Firebase` |
-| **👁️ Face Rec** | Real-time browser-based recognition | `Python` `OpenCV` `Web` |
-| **💬 Live Chat** | Real-time messaging architecture | `Socket.io` `Express` |
+| **E-WASTE IOT** | Smart segregation system using Sensors & Cloud | `C++` `IoT` |
+| **EDTECH PLATFORM** | Full scale education system with live classes | `React` `Node` |
+| **FACE REC 2.0** | Browser-based security system | `Python` `OpenCV` |
+| **CHAT APP** | Low-latency real-time communication | `Socket.io` |
 
 ---
 
-### 🎹 The Audio Engine (Music)
-<p align="left">
-  <img src="https://img.shields.io/badge/Classical_Vocals-4_Years-purple?style=flat-square&logo=apple-music" />
-  <img src="https://img.shields.io/badge/Piano-7_Years-blue?style=flat-square&logo=audacity" />
-  <img src="https://img.shields.io/badge/Harmonium-Mastered-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Beatboxing-Active-red?style=flat-square" />
-</p>
-
----
-
-### 📊 GitHub Metrics
+### 🎧 AUDIO DRIVER (MUSIC SIDE)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=workbhaveshpandey-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=workbhaveshpandey-create&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://media.giphy.com/media/XGCXD34k0a6Jq/giphy.gif" width="100%" height="40"/>
 </div>
 
-<br/>
+```txt
+NP: Bhavesh_Mix_Vol_1.mp3
+[====================] 98% 🔊
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=workbhaveshpandey-create&theme=darkhub&no-frame=true&margin-w=15" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:020617,100:0f172a" width="100%" />
-</div>
+instruments_loaded = {
+  "🎹 Piano": "Level 7 (Master)",
+  "🎤 Vocals": "Classical Degree",
+  "🥁 Percussion": "Beatbox Mode"
+}
