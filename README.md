@@ -1,105 +1,90 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2e022d&height=160&section=header&text=BHAVESH%20PANDEY&fontSize=70&fontAlign=50&fontAlignY=45&desc=SYSTEM_ARCHITECT%20//%20AUDIO_ENGINEER&descAlign=50&descAlignY=75&descSize=16&fontColor=00ffea&animation=glitch&stroke=00ffea" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=BHAVESH%20PANDEY&fontSize=80&fontAlignY=35&desc=FULL%20STACK%20%7C%20IOT%20ENGINEER%20%7C%20MUSICIAN&descAlignY=65&descSize=20&animation=fadeIn" width="100%" />
+</div>
 
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&pause=1000&color=00FFEA&center=true&vCenter=true&width=600&lines=Initializing+Hardware+Interface...;Loading+Module:+Full+Stack+Development;Loading+Module:+IoT+Protocol;Loading+Module:+Classical+Music;System+Ready." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=5D3FD3&center=true&vCenter=true&width=500&lines=Building+Smart+Systems...;Connecting+Hardware+to+Cloud...;Composing+Code+%26+Music..." alt="Typing SVG" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/OS-KREO_LINUX-black?style=for-the-badge&logo=linux&logoColor=00ffea&color=1a0b2e"/>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-black?style=for-the-badge&logo=activity&logoColor=00ffea&color=1a0b2e"/>
-  <img src="https://img.shields.io/badge/BATTERY-INFINITE-black?style=for-the-badge&logo=tesla&logoColor=00ffea&color=1a0b2e"/>
+  <a href="https://instagram.com/kreo.dev">
+    <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@KreoDev">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:workbhaveshpandey@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 <br/>
 
-<div align="center">
-  <table border="0" style="background-color: #0d0221; border-radius: 10px; border: 1px solid #00ffea;">
-    <tr>
-      <td width="300" valign="top" align="center">
-        <br/>
-        <img src="https://api.dicebear.com/9.x/bottts-neutral/svg?seed=Bhavesh&backgroundColor=1a0b2e" width="180" style="border-radius: 50%; border: 2px solid #00ffea;" />
-        <br/><br/>
-        <a href="https://instagram.com/kreo.dev"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-black?style=flat-square&logo=instagram&logoColor=white"/></a>
-        <br/>
-        <a href="mailto:workbhaveshpandey@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-black?style=flat-square&logo=gmail&logoColor=white"/></a>
-      </td>
-      <td width="500" valign="top">
-        
-### 🟢 SYSTEM DIAGNOSTICS:
+---
 
-> **IDENTITY:** Full Stack Developer & IoT Engineer  
-> **BASE:** Amrapali University (Data Science & IoT)  
-> **SPECIALTY:** Bridging Digital Code with Physical Hardware.
+### 👨‍💻 ABOUT ME
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180" />
 
-I am not just a coder; I am a **Builder**. I write software that controls the real world. From **React.js dashboards** to **Arduino sensors**, I architect complete systems.
+I am a **Full Stack Developer** and **IoT Engineer** based at **Amrapali University**. I specialize in building end-to-end systems where software meets the physical world.
 
-**🚀 CURRENT OBJECTIVES:**
-* [✓] **Master:** React, Node.js, Python
-* [✓] **Build:** Award Winning E-Waste System
-* [⟳] **Loading:** Advanced AI Integration
-
-      </td>
-    </tr>
-  </table>
-</div>
+* 🔭 **Working on:** Advanced IoT E-Waste Management Systems.
+* ⚡ **Core Skill:** Merging **React/Node.js** with **Arduino/Raspberry Pi**.
+* 🎵 **Secret Weapon:** I hold a degree in Classical Music (Vocals & Instruments).
+* 🏆 **Highlight:** **INSPIRE Award Winner 2024**.
 
 <br/>
 
-### ⚡ WEAPONRY (TECH STACK)
+---
 
-<div align="center" style="background-color: #000; padding: 20px; border-radius: 10px; border-bottom: 3px solid #00ffea;">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,nodejs,express,firebase,python,c,cpp,arduino,raspberrypi,linux,figma,git&perline=17&theme=dark" />
-</div>
+### 🛠️ TECHNICAL ARSENAL
 
-<br/>
+| **Front-End** | **Back-End** | **IoT & Hardware** | **Languages** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma" width="200" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongo,postgres" width="180" /> | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" width="120" /> | <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c" width="180" /> |
 
-### 💾 MISSION LOGS (PROJECTS)
+---
 
-| **ID** | **PROTOCOL (PROJECT)** | **ENGINE (TECH)** | **STATUS** |
-| :--- | :--- | :--- | :--- |
-| `001` | **♻️ E-Waste IoT System** | `Arduino` `C++` `Cloud` | 🏆 **INSPIRE Award** |
-| `002` | **🏫 EdTech Platform** | `React` `Node` `Firebase` | 🟢 **Deployed** |
-| `003` | **👁️ Face Recognition** | `Python` `OpenCV` | 🟡 **Beta Testing** |
-| `004` | **💬 Real-Time Comms** | `Socket.io` `Express` | 🟢 **Stable** |
+### 🚀 FEATURED PROJECTS
 
-<br/>
+| **Project** | **Tech Stack** | **Description** |
+| :--- | :--- | :--- |
+| **♻️ E-Waste Manager** | `IoT` `C++` `Cloud` | *Award-winning* smart segregation system. |
+| **🏫 EdTech Platform** | `React` `Firebase` | Full scalable education portal. |
+| **👁️ FaceID Web** | `Python` `OpenCV` | Browser-based real-time recognition. |
+| **💬 Live Chat** | `Socket.io` `Node` | Real-time messaging architecture. |
 
-### 🎧 AUDIO DRIVER (MUSIC)
-> *Loading Audio Profile... Success.*
+---
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🎹_PIANO-7_YEARS-000?style=for-the-badge&color=2e022d&labelColor=00ffea" />
-    </td>
-    <td align="center">
-       <img src="https://img.shields.io/badge/🎤_VOCALS-CLASSICAL-000?style=for-the-badge&color=2e022d&labelColor=00ffea" />
-    </td>
-    <td align="center">
-       <img src="https://img.shields.io/badge/🥁_BEATS-PERCUSSION-000?style=for-the-badge&color=2e022d&labelColor=00ffea" />
-    </td>
-  </tr>
-</table>
-</div>
-
-<br/>
-
-### 📊 PERFORMANCE METRICS
+### 📊 GITHUB ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=workbhaveshpandey-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffea&icon_color=00ffea" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=workbhaveshpandey-create&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffea" height="150" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=workbhaveshpandey-create&theme=darkhub&no-frame=true&margin-w=15&no-bg=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=workbhaveshpandey-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=workbhaveshpandey-create&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2e022d&height=80&section=footer" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=workbhaveshpandey-create&theme=tokyonight&hide_border=true&background=0D1117" width="97%" />
+</div>
+
+---
+
+### 🎧 THE MUSICIAN SIDE
+> *"Code is logic, Music is emotion. I do both."*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎹_Piano-7_Years-0077B5?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎤_Vocals-Classical_Degree-7E22CE?style=flat-square" />
+  <img src="https://img.shields.io/badge/🥁_Drums-Percussion-D97706?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎼_Harmonium-Pro-10B981?style=flat-square" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
 </div>
