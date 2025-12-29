@@ -37,7 +37,7 @@
 
 I am the **Founder of KreoDev**, a **Full Stack Developer**, and an **IoT Engineer** based at **Amrapali University**. I specialize in building end-to-end systems where software meets the physical world.
 
-* 🔭 **Working on:** Advanced IoT E-Waste Management Systems.
+* 🔭 **Working on:** KREO 2.0.
 * ⚡ **Core Skill:** Merging **React/Node.js** with **Arduino/Raspberry Pi**.
 * 🎵 **Secret Weapon:** I hold a degree in Classical Music (Vocals & Instruments).
 * 🏆 **Highlight:** **INSPIRE Award Winner 2024**.
