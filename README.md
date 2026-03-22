@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=BHAVESH%20PANDEY&fontSize=80&fontAlignY=35&desc=FOUNDER%20OF%20KREODEV%20%7C%20IOT%20ENGINEER%20%7C%20MUSICIAN&descAlignY=65&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=BHAVESH%20PANDEY&fontSize=80&fontAlignY=35&desc=FOUNDER%20OF%20BHAVISHYADEVOPS%20%7C%20IOT%20ENGINEER%20%7C%20MUSICIAN&descAlignY=65&descSize=20&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
