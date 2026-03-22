@@ -35,9 +35,9 @@
 ### 👨‍💻 ABOUT ME
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180" />
 
-I am the **Founder of KreoDev**, a **Full Stack Developer**, and an **IoT Engineer** based at **Amrapali University**. I specialize in building end-to-end systems where software meets the physical world.
+I am the **Founder of Bhavishyadevops**, a **Full Stack Developer**, and an **IoT Engineer** based at **Amrapali University**. I specialize in building end-to-end systems where software meets the physical world.
 
-* 🔭 **Working on:** KREO 2.0.
+* 🔭 **Working on:** Bhavishya 2.0.
 * ⚡ **Core Skill:** Merging **React/Node.js** with **Arduino/Raspberry Pi**.
 * 🎵 **Secret Weapon:** I hold a degree in Classical Music (Vocals & Instruments).
 * 🏆 **Highlight:** **INSPIRE Award Winner 2024**.
