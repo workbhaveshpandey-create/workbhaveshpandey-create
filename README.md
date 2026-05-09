@@ -14,10 +14,10 @@
   <a href="https://kreoai.netlify.app/">
     <img src="https://img.shields.io/badge/Website-Visit_bhaveshhub-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/kreo.dev">
+  <a href="https://instagram.com/bhaveshub">
     <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@KreoDev">
+  <a href="https://youtube.com/@bhavishyadevops">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="mailto:workbhaveshpandey@gmail.com">
