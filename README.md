@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Building+Smart+Systems...;Connecting+Hardware+to+Cloud...;Founder+of+KreoDev...;Composing+Code+%26+Music..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Building+Smart+Systems...;Connecting+Hardware+to+Cloud...;Founder+of+bhaveshhub...;Composing+Code+%26+Music..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://kreoai.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-Visit_KreoDev-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-Visit_bhaveshhub-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://instagram.com/kreo.dev">
     <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
