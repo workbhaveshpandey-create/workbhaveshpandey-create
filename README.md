@@ -14,7 +14,7 @@
   <a href="https://kreoai.netlify.app/">
     <img src="https://img.shields.io/badge/Website-Visit_bhaveshhub-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/bhaveshub">
+  <a href="https://instagram.com/bhavesh_hub">
     <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://youtube.com/@bhavishyadevops">
